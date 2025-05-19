@@ -1,0 +1,1 @@
+This file have all steps to install the server on your pc. 
